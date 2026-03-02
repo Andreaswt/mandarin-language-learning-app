@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+supabase/.temp
+.env
+
 # Expo
 .expo/
 dist/
